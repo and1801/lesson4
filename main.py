@@ -6,3 +6,5 @@ if a > b:
 
 elif a < b:
     print ('b больше')
+else:
+    print('a = b')
