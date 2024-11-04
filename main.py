@@ -1,5 +1,6 @@
-# создание переменной
-b = 0
+for i in range(8):
+    print('hy')
+a, b = 9, 8
 
 if a > b:
     print ('a больше чем b')
