@@ -1,6 +1,7 @@
-for i in range(8):
-    print('hy')
-a, b = 9, 8
+a= 10
+b = 40
+
+
 
 if a > b:
     print ('a больше чем b')
