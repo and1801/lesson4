@@ -10,3 +10,5 @@ elif a < b:
     print ('b больше')
 else:
     print('a = b')
+
+print('конфликт')
